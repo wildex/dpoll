@@ -8,5 +8,5 @@ Example poll aplication, built using [tutorial](https://docs.djangoproject.com/e
 * Test coverage
 * List all questions
 * Vote for question
-* See pool results
+* See poll results
 * Hide questions, published in future
